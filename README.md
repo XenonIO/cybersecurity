@@ -12,7 +12,7 @@ See [the business](BUSINESS.md), [plan](PLAN.md) and [practices](PRACTICES.md).
 
 ## Q. Why is it called a plan, not a policy?
 
-A. Under attorney advice, *company policies* are litigated upon, while *company plans* are not. It does not lesson the intent to follow the document, but reflects the reality that no organization can achieve 100% compliance to their policies nor plans at all times.
+A. Under attorney advice, *company policies* are litigated upon, while *company plans* are not. It does not lessen the intent to follow the document, but reflects the reality that no organization can achieve 100% compliance to their policies nor plans at all times.
 
 ## Q. What is CAIQ?
 
