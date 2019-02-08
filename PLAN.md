@@ -1,6 +1,6 @@
 # Xenon Cybersecurity Plan
 
-*Updated January 14th, 2019.*
+*Updated February 8th, 2019.*
 
 ## Schedule
 
@@ -31,7 +31,7 @@ CAIQ: GRM-05.
 
 ## Principle
 
-Our security principle is the golden rule: Treat others as you’d like to be treated. We are a technical team building technical products that primarily serve small teams like our own. We are always short resources, but we are staffed similar to our industry peers. We aim to direct our resources to the best use--and this holds true in a cybersecurity context. For instance, we have a portion of our team that works remotely. Do we require our teammates to work inside a secure environment? No. It’s impractical and not our industry norm. However, we do not encourage private data to be left unsecured on a personal device with an easy opportunity for theft. Why? Because we would not want our data treated like that--and with a small bit of preparation, it is reasonable to never arrive in this type of situation. When in doubt, return to our security principle. It will always provide authentic guidance.
+Our security principle is the golden rule: Treat others as you’d like to be treated. We are a technical team building technical products that primarily serve small teams like our own. We are always short resources, but we are staffed similar to our industry peers. We aim to direct our resources to the best use--and this holds true in a cybersecurity context. For instance, we have a portion of our team that works remotely. Do we require our teammates to work inside a secure environment? No. It’s impractical and not our industry norm. However, we do not encourage private data to be left unsecured on a personal device with an easy opportunity for theft. Why? Because we would not want our data treated like that--and with a small bit of preparation, it is reasonable to never arrive at this type of situation. When in doubt, return to our security principle. It will always provide authentic guidance.
 
 We intend to treat customer data fairly, transparently and securely.
 
@@ -51,7 +51,7 @@ GDPR: Article 9, Article 39.
 
 ## Data We Collect
 
-We collect data for our core service, we collect our direct user and account data and we keep third party data where relevant to our operations. By default, we attempt minimize the data we collect.
+We collect data for our core service, we collect our direct user and account data and we keep third party data where relevant to our operations. By default, we attempt to minimize the data we collect.
 
 See [more details on the data we collect](BUSINESS.md#data).
 
