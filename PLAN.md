@@ -1,12 +1,10 @@
 # Xenon Cybersecurity Plan
 
-*Updated February 8th, 2019.*
+*Updated February 7, 2020.*
 
 ## Schedule
 
-This document is reviewed quarterly. The next review will be in **Q2 2019**. At this review:
- * Business Continuity Plans are to be reviewed and tested. (CAIQ: BCR-02)
- * Application and infrastructure [security baseline](PRACTICES.md#External_Monitoring) to be reviewed. (CAIQ: GRM-01)
+This document is reviewed quarterly.
 
 Once per year, these additional activities will be performed:
  * Review this plan and [our practices](PRACTICES.md). (CAIQ: GRM-04, GRM-09)
@@ -18,6 +16,8 @@ Once per year, these additional activities will be performed:
  * Review connectivity (e.g. VPC/firewall settings). (CAIQ: IVS-06)
  * Test security incident response plans. (CAIQ: SEF-02)
  * Review [vendors](PRACTICES.md#Vendors) and ensure service agreements are in alignment. (CAIQ: STA-07)
+ * Business Continuity Plans are to be reviewed and tested. (CAIQ: BCR-02)
+ * Application and infrastructure [security baseline](PRACTICES.md#External_Monitoring) to be reviewed. (CAIQ: GRM-01)
 
 ## Overview
 
@@ -262,7 +262,7 @@ In Massachusetts, this plan can be called a “Cybersecurity Policy,” since Ma
 
 ## Hi Europe
 
-We meet the necessary requirements under EU General Data Protection Regulation (GDPR). Our [Data Processing Addendum (DPA) is available here]() to support customer GDPR compliance needs.
+We meet the necessary requirements under EU General Data Protection Regulation (GDPR). Our [Data Processing Addendum (DPA) is available here]() to support customer GDPR compliance needs. We support and encourage our companies to join the US/EU Privacy Shield Framework.
 
 ## Hi Security Researchers
 
@@ -297,4 +297,4 @@ Cloud Security Alliance Version 3.0.1 ## Awaiting their approval to retain refer
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019.
+Copyright Jonathan Siegel, 2018-2010.
