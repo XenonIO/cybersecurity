@@ -56,11 +56,14 @@ When making updates, run ```./utils/add_links``` to add links to GDPR cross-refe
 
 ## In Use
 
- * [ScoutApp.com](https://scoutapp.com)
- * [Xplenty.com](https://Xplenty.com)
+ * [ScoutAPM.com](https://scoutapm.com)
+ * [Xplenty.com](https://xplenty.com)
+ * [DreamFactory.com] (https://www.dreamfactory.com/)
+ * [Iron.io] (https://www.iron.io/)
+ * [RingCaptcha.com] (https://ringcaptcha.com/)
  * [AccountDock.com](https://AccountDock.com)
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019. Please contact cyber@xenon.io if you would like to re-use or contribute to this plan.
+Copyright Jonathan Siegel, 2018-2010. Please contact cyber@xenon.io if you would like to re-use or contribute to this plan.
 
