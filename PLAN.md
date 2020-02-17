@@ -297,4 +297,4 @@ Cloud Security Alliance Version 3.0.1 ## Awaiting their approval to retain refer
 
 # License
 
-Copyright Jonathan Siegel, 2018-2010.
+Copyright Jonathan Siegel, 2018-2020.
