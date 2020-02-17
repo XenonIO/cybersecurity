@@ -65,5 +65,5 @@ When making updates, run ```./utils/add_links``` to add links to GDPR cross-refe
 
 # License
 
-Copyright Jonathan Siegel, 2018-2020. Please contact cyber@xenon.io if you would like to re-use or contribute to this plan.
+Copyright Jonathan Siegel, 2018-2020. Please contact security@xenon.io if you would like to re-use or contribute to this plan.
 
