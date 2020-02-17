@@ -58,9 +58,9 @@ When making updates, run ```./utils/add_links``` to add links to GDPR cross-refe
 
  * [ScoutAPM.com](https://scoutapm.com)
  * [Xplenty.com](https://xplenty.com)
- * [DreamFactory.com] (https://www.dreamfactory.com/)
- * [Iron.io] (https://www.iron.io/)
- * [RingCaptcha.com] (https://ringcaptcha.com/)
+ * [DreamFactory.com](https://www.dreamfactory.com/)
+ * [Iron.io](https://www.iron.io/)
+ * [RingCaptcha.com](https://ringcaptcha.com/)
  * [AccountDock.com](https://AccountDock.com)
 
 # License
