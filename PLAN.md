@@ -293,7 +293,7 @@ See [Practices](PRACTICES.md#Inapplicable).
 
 ## CAIQ
 
-Cloud Security Alliance Version 3.0.1 ## Awaiting their approval to retain references to their taxonomy.
+Cloud Security Alliance Version 3.0.1
 
 # License
 
