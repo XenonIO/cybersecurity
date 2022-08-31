@@ -102,7 +102,7 @@ Any device beginning a web session, should follow these minimum requirements:
  1. Be aware of the corporate policy that restricts your usage of internet services. At work, stay work focused. Do not access social media, file sharing nor video sites unless there is a direct work requirement to do so. Not only is this a good practice for the workplace, but this limits the likelihood that you will be exposed to uncurated, potentially harmful sites.
  1. Our organization relies on the Google Authenticator Application to provide 2FA wherever possible. Use 2FA on any site that supports it. Particularly, you will find that we enforce 2FA on GitHub, Salesforce and gSuite.
  1. Use your gSuite ID as login wherever possible. When you use your gSuite credential, you ensure that 2FA is required for third-party sites. Moreover, we are able to monitor those applications that you have authenticated through gSuite and provide additional awareness and protection in the case access needs to be revoked.
- 1. Use your 1Password account. We provide 1Password to all of our teammates. 1Password generates strong passwords and has been customized to meet our secure environment needs. 
+ 1. Use your password manager account. We provide TeamPassword to all of our teammates. TeamPassword generates strong passwords and has been customized to meet our secure environment needs. 
  1. Alert our security team when you are confused, experience a concern (is a site SSL behaving correctly?) or need support on your environment (browser, OS updates, etc).
 
 ## Insecure Environments
