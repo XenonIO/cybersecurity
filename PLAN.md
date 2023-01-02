@@ -4,9 +4,7 @@
 
 ## Schedule
 
-This document is reviewed quarterly. The next review will be in **Q2 2019**. At this review:
- * Business Continuity Plans are to be reviewed and tested. (CAIQ: BCR-02)
- * Application and infrastructure [security baseline](PRACTICES.md#External_Monitoring) to be reviewed. (CAIQ: GRM-01)
+**This document is no longer maintained or reviewed. Xenon PortCos may fork and update as desired.
 
 Once per year, these additional activities will be performed:
  * Review this plan and [our practices](PRACTICES.md). (CAIQ: GRM-04, GRM-09)
@@ -18,6 +16,8 @@ Once per year, these additional activities will be performed:
  * Review connectivity (e.g. VPC/firewall settings). (CAIQ: IVS-06)
  * Test security incident response plans. (CAIQ: SEF-02)
  * Review [vendors](PRACTICES.md#Vendors) and ensure service agreements are in alignment. (CAIQ: STA-07)
+ * Business Continuity Plans are to be reviewed and tested. (CAIQ: BCR-02)
+ * Application and infrastructure [security baseline](PRACTICES.md#External_Monitoring) to be reviewed. (CAIQ: GRM-01)
 
 ## Overview
 
@@ -297,4 +297,4 @@ Cloud Security Alliance Version 3.0.1
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019.
+Copyright Jonathan Siegel, 2018-2022.
