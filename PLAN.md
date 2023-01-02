@@ -4,7 +4,7 @@
 
 ## Schedule
 
-**This document is no longer maintained or reviewed. Xenon PortCos may fork and update as desired.
+**This document is no longer maintained or reviewed. Xenon PortCos may fork and update as desired.**
 
 Once per year, these additional activities will be performed:
  * Review this plan and [our practices](PRACTICES.md). (CAIQ: GRM-04, GRM-09)
