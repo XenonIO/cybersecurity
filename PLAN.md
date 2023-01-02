@@ -6,7 +6,7 @@
 
 **This document is no longer maintained or reviewed. Xenon PortCos may fork and update as desired.**
 
-Once per year, these additional activities will be performed:
+Once per year, these activities will be performed:
  * Review this plan and [our practices](PRACTICES.md). (CAIQ: GRM-04, GRM-09)
  * Review the likelihood and impact of risks. (CAIQ: GRM-10)
  * Test backup and redundancy mechanisms. (CAIQ: BCR-11.5)
