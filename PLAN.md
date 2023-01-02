@@ -1,6 +1,6 @@
 # Xenon Cybersecurity Plan
 
-*Updated February 8th, 2019.*
+*Updated December 31, 2022.*
 
 ## Schedule
 
@@ -293,7 +293,7 @@ See [Practices](PRACTICES.md#Inapplicable).
 
 ## CAIQ
 
-Cloud Security Alliance Version 3.0.1
+Cloud Security Alliance Version 3.0.1 is the basis for this cybersecurity plan. CSA has now released CAIQ v4
 
 # License
 
